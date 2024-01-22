@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/github/DanielFCubides/recommendations-daf/graph/badge.svg?token=SY8CJQJFME)](https://codecov.io/github/DanielFCubides/recommendations-daf)
+
 # Recommendation System 
 
 Welcome to the Recommendation System API repository. This system provides recommendations for users based on their preferences and items they might be interested in. The main feature of this API is the ability to calculate a score between a user and an item, helping users discover relevant content.
@@ -7,10 +9,6 @@ Welcome to the Recommendation System API repository. This system provides recomm
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 To get started with the Recommendation System API, follow these steps:
@@ -60,6 +58,9 @@ The Recommendation System API allows users to calculate a score between a user a
       "score": 75
     }
     ```
+
+## Stability
+[![codecov](https://codecov.io/github/DanielFCubides/recommendations-daf/graphs/sunburst.svg?token=SY8CJQJFME)](https://codecov.io/github/DanielFCubides/recommendations-daf)
 
 
 ### Strategy
